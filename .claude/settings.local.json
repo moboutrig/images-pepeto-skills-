@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(nano-banana)",
+      "Skill(nano-banana:*)"
+    ]
+  }
+}
